@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Api-data</string>
+    <string name="eg_alabama">Eg-  Alabama</string>
+    <string name="fetch">Fetch</string>
+    <string name="enter_city_name">Enter City Name:-</string>
+    <string name="fetched_details">Fetched Details :-</string>
+    <string name="internship_task_by">Internship Task By:-</string>
+    <string name="a2305220137">A2305220137</string>
+    <string name="akshat_khanna">Akshat Khanna</string>
+</resources>
